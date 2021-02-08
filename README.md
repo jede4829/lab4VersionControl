@@ -1,2 +1,5 @@
 # lab4VersionControl
-Lab4
+Lab Assignment: Lab 4 Version Control
+Name: Jenna Dean
+Lab Partner Name:  
+
