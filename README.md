@@ -1,5 +1,5 @@
 # lab4VersionControl
 Lab Assignment: Lab 4 Version Control
-Name: Jenna Dean
-Lab Partner Name: Sean Mccoormick  
+Name: Jenna Dean=
+Lab Partner Name: Sean Mccormick  
 Date: 2/15/21

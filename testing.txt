@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 testing document. 
 Git Version Control
+=======
+This is a testing document in the testing-new-files branch.
+>>>>>>> testing-new-files
